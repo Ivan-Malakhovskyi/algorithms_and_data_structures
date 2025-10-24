@@ -1,0 +1,21 @@
+{
+  "name": "algorithms_and_data_structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hashTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Malakhovskyi/algorithms_and_data_structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ivan-Malakhovskyi/algorithms_and_data_structures/issues"
+  },
+  "homepage": "https://github.com/Ivan-Malakhovskyi/algorithms_and_data_structures#readme"
+}
